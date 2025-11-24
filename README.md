@@ -37,6 +37,5 @@
 
 ---
 <div align="center">
-  <h2>Minha Contribuição em Pixels 🐍</h2>
-  <img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-snake.svg" alt="github snake" />
+  <img src="https://raw.githubusercontent.com/Rodriguinhozinho/Rodriguinhozinho/output/github-snake.svg" alt="github snake" />
 </div>
