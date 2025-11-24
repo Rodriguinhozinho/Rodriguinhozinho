@@ -32,18 +32,3 @@
 
 <div align="center">
   <img src="https://cdn.sanity.io/images/jo7n4k8s/production/7a0bf96c6e3155ca56c74723cb0c0767517a4429-324x318.jpg?auto=format" alt="Rodapé" width="300"/>
-
-  </div>
-
-
----
-<div align="center">
-  <img src="https://github.com/Rodriguinhozinho/Rodriguinhozinho/blob/output/github-snake-dark.svg" alt="github snake" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rodriguinhozinho/Rodriguinhozinho/output/github-snake-dark.svg">
-    <img alt="github snake" src="https://raw.githubusercontent.com/Rodriguinhozinho/Rodriguinhozinho/output/github-snake.svg" />
-  </picture>
-</div>
