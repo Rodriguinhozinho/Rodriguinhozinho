@@ -35,7 +35,3 @@
 
 
 
----
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rodriguinhozinho/Rodriguinhozinho/output/github-snake.svg" alt="github snake" />
-</div>
