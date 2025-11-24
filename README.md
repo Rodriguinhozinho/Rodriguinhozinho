@@ -25,16 +25,12 @@
 
 ---
 
-
-<div align="center">
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Rodriguinhozinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" alt="Estatísticas do GitHub"/>
-  </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguinhozinho&layout=compact&theme=dracula" alt="Linguagens Mais Usadas"/>
   </a>
 
-</div>
+<div align="center">
+  <img src="https://cdn.sanity.io/images/jo7n4k8s/production/7a0bf96c6e3155ca56c74723cb0c0767517a4429-324x318.jpg?auto=format" alt="Rodapé" width="300"/>
 
+  </div>
