@@ -40,3 +40,10 @@
 <div align="center">
   <img src="https://github.com/Rodriguinhozinho/Rodriguinhozinho/blob/output/github-snake-dark.svg" alt="github snake" />
 </div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rodriguinhozinho/Rodriguinhozinho/output/github-snake-dark.svg">
+    <img alt="github snake" src="https://raw.githubusercontent.com/Rodriguinhozinho/Rodriguinhozinho/output/github-snake.svg" />
+  </picture>
+</div>
