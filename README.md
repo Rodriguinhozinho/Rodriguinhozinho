@@ -5,10 +5,11 @@
   # Hello, World!
   
   ### | Profissional devoloper |
-  ### 🌐 Minhas Principais Linguagens
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguinhozinho&layout=compact&hide=css,scss,typescript,less&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguinhozinho&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Rodriguinhozinho&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rodriguinhozinho&theme=blue_navy&hide_border=true)<br/>
+
 </div>
 
 ## 🛠️ Tecnologia
