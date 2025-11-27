@@ -33,3 +33,7 @@
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguinhozinho&layout=compact&theme=dracula" alt="Linguagens Mais Usadas"/>
   </a>
 
+
+<div align="center">
+
+  <img src="https://cdn.sanity.io/images/jo7n4k8s/production/7a0bf96c6e3155ca56c74723cb0c0767517a4429-324x318.jpg?auto=format" alt="Rodapé" width="300"/>
