@@ -6,9 +6,6 @@
   
   ### | Profissional devoloper |
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguinhozinho&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Rodriguinhozinho&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rodriguinhozinho&theme=blue_navy&hide_border=true)<br/>
 
 </div>
 
@@ -23,7 +20,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguinhozinho&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
   </p>
 
 ---
