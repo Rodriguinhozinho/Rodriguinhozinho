@@ -17,12 +17,6 @@
 
 ## Tecnologias
 
-<div align="center">
-    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Rodriguinhozinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas Gerais do GitHub"/>
-</a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguinhozinho&layout=compact&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas"/>
 </a>
