@@ -28,7 +28,7 @@
 ## 
 
 <div align="center">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguinhozinho&theme=tokyonight)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodriguinhozinho)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div align="center">
