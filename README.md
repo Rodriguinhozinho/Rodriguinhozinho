@@ -14,13 +14,8 @@
 
 </div>
 
-## 🧠 Filosofia de Código
 
-> "O código só está pronto quando o desenvolvedor que o escreveu acorda às 3 da manhã pensando em uma forma melhor de fazer aquilo."
-
----
-
-## 📈 Estatísticas & Linguagens
+## Tecnologias
 
 <div align="center">
     
