@@ -4,7 +4,7 @@
   
   # Hello, World!
   
-  ### | Profissional devoloper |
+  ### | Professional developer |
 
 
 </div>
@@ -22,13 +22,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
   </p>
+
 <div align="center">
-  
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguinhozinho&layout=compact&theme=dracula" alt="Linguagens Mais Usadas"/>
   </a>
 
-<div align="center">
   <img src="https://cdn.sanity.io/images/jo7n4k8s/production/7a0bf96c6e3155ca56c74723cb0c0767517a4429-324x318.jpg?auto=format" alt="Rodapé" width="300"/>
 
-este é o meu readme
+</div>
