@@ -6,7 +6,6 @@
   
   ### | Professional Devoloper |
   
-  ---
   
 <div align="center">
 
