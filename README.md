@@ -7,7 +7,7 @@
   ### | Profissional devoloper |
   ### 🌐 Minhas Principais Linguagens
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide=css,scss,typescript,less&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguinhozinho&layout=compact&hide=css,scss,typescript,less&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
