@@ -16,7 +16,7 @@
 
 
 ## Tecnologias
-
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguinhozinho&layout=compact&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas"/>
 </a>
