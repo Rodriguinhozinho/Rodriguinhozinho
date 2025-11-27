@@ -12,13 +12,6 @@
 
   ### | Profissional devoloper |
 
-
-</div>
-
-<div align="center">
-    
-![Linha de Código (não) Escrita Hoje](https://progress-bar.dev/10/?title=commits%20hoje)
-
 </div>
 
 ## 🧠 Filosofia de Código
