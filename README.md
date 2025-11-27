@@ -1,10 +1,8 @@
 <div align="center">
+  <img src="https://img.freepik.com/fotos-premium/uma-vaca-peculiar-usando-oculos-capturada-em-um-cenario-divertido_1228868-25861.jpg?semt=ais_incoming&w=740&q=80" alt="Logo de Perfil" width="100"/>
+  # Hello, World!
+  ### | Profissional devoloper |
 
-  <img src="https://avatars.githubusercontent.com/u/SEU_USER_ID?v=4" alt="Avatar de Perfil" width="100" style="border-radius: 50%;"/>
-  
-  # Olá, Mundo! Eu sou o Rodriguinhozinho 👋
-  
-  ### | Desenvolvedor Profissional | Entusiasta de Automação e Web |
 
 </div>
 
