@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/k6lP0Wn.png" alt="a" width="100"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos%2Fvaca-funny-animals%2F10&psig=AOvVaw3cYVNCh_utXB-FEQPclKB5&ust=1764503956535000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDU3M6nl5EDFQAAAAAdAAAAABAE" alt="a" width="100"/>
 </p>
 
 <h1 align="center">Hello World!</h1>
