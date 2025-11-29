@@ -29,7 +29,7 @@
 
 <div align="center">
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguinhozinho&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguinhozinho&theme=dracula)
 
 </div>
 
