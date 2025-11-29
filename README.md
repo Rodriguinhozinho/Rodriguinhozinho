@@ -1,13 +1,9 @@
-# <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos%2Fvaca-funny-animals%2F10&psig=AOvVaw1KSNuk441jmVqK7WbcL--h&ust=1764503686822000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDnls6ml5EDFQAAAAAdAAAAABAE" height="30" alt="a"    
+#
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos%2Fvaca-funny-animals%2F10&psig=AOvVaw1KSNuk441jmVqK7WbcL--h&ust=1764503686822000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDnls6ml5EDFQAAAAAdAAAAABAE" height="30" alt="a"    
 
 
   
-<div align="center">
 
-
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
-[![](https://visitcount.itsvg.in/api?id=Rodriguinhozinho&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 
