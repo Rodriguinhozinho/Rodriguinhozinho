@@ -18,7 +18,7 @@
 
 </div>
 
-
+<dib align="center">
 
 ## 🛠️ Tecnologia
 
