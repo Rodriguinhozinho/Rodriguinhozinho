@@ -2,28 +2,17 @@
     
   <img src="https://img.freepik.com/fotos-premium/uma-vaca-peculiar-usando-oculos-capturada-em-um-cenario-divertido_1228868-25861.jpg?semt=ais_incoming&w=740&q=80" alt="Logo de Perfil" width="100"/>
   
-  # Hello, World!
-  
-  ### | Professional developer |
+##
+Professional Devoloper
 
----
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguinhozinho&layout=compact&theme=dracula" alt="Linguagens Mais Usadas"/>
-  </a>
+# 💻
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+# 
+![](https://github-readme-stats.vercel.app/api?username=Rodriguinhozinho&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rodriguinhozinho&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguinhozinho&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-  <h2>🛠️ Tecnologia</h2>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-     
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-     
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </p>
 
 ---
 
