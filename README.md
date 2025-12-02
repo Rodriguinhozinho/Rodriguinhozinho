@@ -1,35 +1,12 @@
-<div align="center">
+<h3 align="center">Professional Devoloper</h3>
 
-  <img src="https://img.freepik.com/fotos-premium/uma-vaca-peculiar-usando-oculos-capturada-em-um-cenario-divertido_1228868-25861.jpg?semt=ais_incoming&w=740&q=80" alt="Logo de Perfil" width="100"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-   Hello, World!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-  | Professional Developer |
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodriguinhozinho&show_icons=true&locale=en&layout=compact" alt="Rodriguinhozinho" /></p>
 
-</div>
-
----
-
-<div align="center">
-
-# Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-# 
-![](https://github-readme-stats.vercel.app/api?username=Rodriguinhozinho&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rodriguinhozinho&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguinhozinho&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://cdn.sanity.io/images/jo7n4k8s/production/7a0bf96c6e3155ca56c74723cb0c0767517a4429-324x318.jpg?auto=format" alt="Rodapé" width="300"/>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodriguinhozinho&show_icons=true&locale=en" alt="Rodriguinhozinho" /></p>
